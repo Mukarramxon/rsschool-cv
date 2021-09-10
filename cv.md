@@ -10,12 +10,6 @@ range of clients. I am eager to be challenged in order to grow and further impro
 life is using my technical know-how to benefit other people and organizations.
 
 
-## Contact Me:
-
-**Phone:** +998 93-413-99-59\
-**Telegram:** @mkodirovka\
-**Email:** m.kodirovka@gmail.com
-
 ## Skills
 
 - Ability multitasking
@@ -31,5 +25,9 @@ life is using my technical know-how to benefit other people and organizations.
 - Adobe Photoshop
 
 
+## Get in Contact:
 
+**Phone:** +998 93-413-99-59\
+**Telegram:** @mkodirovka\
+**Email:** m.kodirovka@gmail.com
 
