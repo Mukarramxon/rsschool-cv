@@ -18,17 +18,17 @@ life is using my technical know-how to benefit other people and organizations.
 
 ##Skills
 
--Ability multitasking
--Communication skills
--Fast learner
--Creativity
--Adaptability
--Computer skills
--Microsoft Office
--Ability to work under pressure
--HTML&CSS
--VueJS
--Adobe Photoshop
+- Ability multitasking
+- Communication skills
+- Fast learner
+- Creativity
+- Adaptability
+- Computer skills
+- Microsoft Office
+- Ability to work under pressure
+- HTML&CSS
+- VueJS
+- Adobe Photoshop
 
 
 
