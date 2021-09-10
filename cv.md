@@ -16,6 +16,19 @@ life is using my technical know-how to benefit other people and organizations.
 **Telegram:** @mkodirovka\
 **Email:** m.kodirovka@gmail.com
 
+##Skills
+
+-Ability multitasking
+-Communication skills
+-Fast learner
+-Creativity
+-Adaptability
+-Computer skills
+-Microsoft Office
+-Ability to work under pressure
+-HTML&CSS
+-VueJS
+-Adobe Photoshop
 
 
 
