@@ -1,4 +1,4 @@
-# _Mukarramkhon Kodirova_
+ _Mukarramkhon Kodirova_
 ---
 
 ## Junior Frontend Developer
