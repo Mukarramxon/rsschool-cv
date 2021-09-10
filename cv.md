@@ -16,7 +16,7 @@ life is using my technical know-how to benefit other people and organizations.
 **Telegram:** @mkodirovka\
 **Email:** m.kodirovka@gmail.com
 
-##Skills
+## Skills
 
 - Ability multitasking
 - Communication skills
