@@ -53,7 +53,7 @@ life is using my technical know-how to benefit other people and organizations.
 
 ## Languages 
 
-Uzbek - bingual 
-English - advanced
+Uzbek - bingual\
+English - advanced\
 Russian - advanced
 
