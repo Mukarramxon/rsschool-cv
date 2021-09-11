@@ -24,10 +24,36 @@ life is using my technical know-how to benefit other people and organizations.
 - VueJS
 - Adobe Photoshop
 
+## Work Experience
+
+ **Network Engineer Intern**
+
+**Huawei Tech Invesment** | ***2021/03/09 - 2021/06/18***
+
+- Cloud Core Network Engineer
+
 
 ## Get in Contact:
 
 **Phone:** +998 93-413-99-59\
 **Telegram:** @mkodirovka\
 **Email:** m.kodirovka@gmail.com
+
+## Education History
+
+**INHA University in Tashkent**
+***Bachelor of Information and communication Engineering***
+
+## Hobbies 
+
+- Creating AR (Augumented Reality) filters
+- Creating HTML5 ads banner (Google web designer) 
+- Travel
+- Photography
+
+## Languages 
+
+Uzbek - bingual 
+English - advanced
+Russian - advanced
 
