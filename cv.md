@@ -32,6 +32,7 @@
 
 ## Experience 
 **[Beautify.uz](www.beautify.uz)** - In this project participated as a Frontend developer (HTML/CSS, JS , VueJS)
+**[BiznesRivoj.uz](www.biznesrivoj.uz)** - Managing, testing, teaching personal to manage the site from admin panel, providing the materials to developers, renewing the website of the online business journal.
 
 ## Education
 **2017-2021** - Bachelor of Science in Information and Communication Engineering, Tashkent *INHA University*  
