@@ -31,7 +31,7 @@
 ## Code Examples
 
 ## Experience 
-** [Beautify.uz] (www.beautify.uz) ** - In this project participated as a Frontend developer (HTML/CSS, JS , VueJS)
+**[Beautify.uz] (www.beautify.uz)** - In this project participated as a Frontend developer (HTML/CSS, JS , VueJS)
 
 ## Education
 **2017-2021** - Bachelor of Science in Information and Communication Engineering, Tashkent *INHA University*  
