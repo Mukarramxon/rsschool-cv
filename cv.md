@@ -137,9 +137,15 @@ export const AuthPage = () => {
 
 
 ## Education
-**2017-2021** - Bachelor of Science in Information and Communication Engineering, Tashkent *INHA University*  
+**2017-2021** - Bachelor of Science in Information and Communication Engineering, *INHA University in Tashkent*  
 **2013-2016** - Foreign Philology(English), *The 2nd lyceum under Machinery Institute*
 
 
 ## Languages
+
+- Uzbek - Native
+- English - C1
+- Russian - C1
+- Italian - A1
+
 
