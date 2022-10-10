@@ -31,7 +31,7 @@
 ## Code Examples
 
 ## Experience 
-**[Beautify.uz](www.beautify.uz)** - In this project participated as a Frontend developer (HTML/CSS, JS , VueJS)
+**[Beautify.uz](www.beautify.uz)** - In this project participated as a Frontend developer (HTML/CSS, JS , VueJS) <br />
 **[BiznesRivoj.uz](www.biznesrivoj.uz)** - Managing, testing, teaching personal to manage the site from admin panel, providing the materials to developers, renewing the website of the online business journal.
 
 ## Education
