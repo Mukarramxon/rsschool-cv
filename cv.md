@@ -1,6 +1,6 @@
 # MUKARRAMKHON KODIROVA
 
-##Contact Info
+## Contact Info
 
 #### Email: <m.kodirova@outlook.com>
 #### Phone Number: +9998(93)4139959
